@@ -1,4 +1,8 @@
 # PuyoPuyo
+<div align="center">
+  <img src="images/img.png" width="300">
+ </div>
+ 
 Implementation in C/C++ of the PuyoPuyo game
 
 ## License
