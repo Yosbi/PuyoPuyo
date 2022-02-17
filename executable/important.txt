@@ -1,0 +1,3 @@
+Important/importante:
+- Please change .e extencion to .exe 
+- Por favor cambie la extencion .e a .exe
