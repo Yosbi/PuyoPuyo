@@ -1,4 +1,4 @@
-# PuyoPuyo
+# PuyoPuyoGame
 <div align="center">
   <img src="images/img.png" width="300">
  </div>
